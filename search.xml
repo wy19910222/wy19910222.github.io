@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>测试title</title>
+      <link href="/2024/07/26/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2024/07/26/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="测试文档"><a href="#测试文档" class="headerlink" title="测试文档"></a>测试文档</h1><ol><li>第一条</li><li>第二条</li><li>最后一条</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类3 </category>
+          
+          <category> 子分类3 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试标签 </tag>
+            
+            <tag> 另一个测试标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello Hexo</title>
       <link href="/2024/07/25/Hello-Hexo/"/>
       <url>/2024/07/25/Hello-Hexo/</url>
