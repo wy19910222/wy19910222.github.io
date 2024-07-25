@@ -105,7 +105,7 @@ theme: hexo-theme-3-hexo-master
 deploy:
   type: git
   repository: https://github.com/wy19910222/wy19910222.github.io.git
-  branch: pages
+  branch: gh-pages
 
 search:
   path: search.xml
