@@ -104,8 +104,8 @@ theme: hexo-3-hexo
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/wy19910222/wy19910222.github.io.git  
-  branch: main
+  repository: https://github.com/wy19910222/wy19910222.github.io.git
+  branch: gh-pages
 
 search:
   path: search.xml
